@@ -1,2 +1,4 @@
 josh journal entry Labs0
-today
+Today i worked as a team with fellow classmates to create a repository and learn the basic git commands 
+we also learnt how to pull to a repository,  branching and merging 
+i am still not feeling fully confident with this yet though and will need a bit more practice.
